@@ -1,7 +1,8 @@
-package eu.marcellofabbri.roadmapkotlin
+package eu.marcellofabbri.roadmapkotlin.ui.events
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import eu.marcellofabbri.roadmapkotlin.R
 
 class EventsActivity : AppCompatActivity() {
 
